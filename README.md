@@ -1,10 +1,7 @@
 # Sydney Airbnb Market Analysis
 
-## Project Overview
+An interactive Power BI dashboard exploring Airbnb listings in Sydney, including listing distribution, pricing, room types, reviews, and estimated revenue. Python and Pandas were used for data cleaning and preprocessing, and Power BI was used to build the dashboard.
 
-This project analyzes Sydney Airbnb listings, pricing, reviews, neighbourhoods, and estimated revenue.
-
-Python and Pandas are used for data extraction, cleaning, and preprocessing. Power BI is used to create an interactive dashboard and visualize key insights.
 
 ## Tools Used
 
