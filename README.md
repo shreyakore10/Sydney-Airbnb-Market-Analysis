@@ -21,6 +21,8 @@ Python and Pandas are used for data extraction, cleaning, and preprocessing. Pow
 4. Created KPI cards, charts, slicers, and a map.
 5. Analyzed listing distribution, room types, pricing, reviews, and estimated revenue.
 
+![Sydney Airbnb Market Analysis Dashboard](dashboard.png)
+
 ## Dashboard KPIs
 
 - Total Listings: 4,100
