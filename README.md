@@ -39,8 +39,6 @@ The dashboard displays the following headline metrics (as shown in the current d
 | Average Rating | 4.76 |
 | Estimated Revenue | 104M |
 
-*Values are based on the current dashboard and may change if the dataset or report is refreshed. The currency/unit for price and revenue follows the underlying report and dataset.*
-
 ## Dashboard Features
 
 - Listing distribution by neighbourhood
